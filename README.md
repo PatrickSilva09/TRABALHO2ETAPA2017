@@ -1,1 +1,3 @@
-# Trabalho Apresentado Nas Disciplinas de Orientação a Objetos e Pratica de O. O
+# Trabalho Apresentado Nas Disciplinas 
+# Orientação a Objetos e 
+# Pratica de Orientado a Objetos
